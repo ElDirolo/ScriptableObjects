@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95021665293c2a74183b7a4702b5631c, type: 3}
+  m_Name: "Nepal\xED"
+  m_EditorClassIdentifier: 
+  idiomaName: "Nepal\xED"
+  traduccionIdioma: " \u092D\u093F\u0915\u094D\u091F\u0930 \u092E\u0932\u093E\u0908
+    \u0967\u0966 \u0926\u093F\u0928\u0941\u0939\u094B\u0938\u094D :)"
+  traductor: {fileID: 8300000, guid: 5cf5ba795b5183149b45d26dd93e3e34, type: 3}
